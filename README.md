@@ -1,0 +1,1 @@
+# Pattern---3-Inverted-Right-Half-Pyramid-
